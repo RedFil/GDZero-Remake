@@ -1,3 +1,18 @@
 GDZero was a project created by my friends and I as a final project to our university course.
 
 This project (GDZero-Remake) is my attempt to re-do the project with all my knowledge today and to see how far I can go on my own and compare the results.
+
+GDZero is a Multiplayer Platform Fighting game with a Medieval and Fantasy Theme.
+
+The gameplay is composed by 2 parts:
+- A brawl for an object:
+  This part is a one-hit deathmatch.
+  However, the main objective is to hold a given object (for example, a crown) as long as possible.
+  The player who holded the object for the longest amount of time (summed) wins this part.
+- The tiebreaker:
+  This part is a one-hit deathmatch as well.
+  In this moment, the object shows kind of wings and floats wildly around the scene.
+  The player who manage to capture the flying object earns a big amount of points.
+  
+Win condition:
+- The one with more points in the end of the second part Wins.
