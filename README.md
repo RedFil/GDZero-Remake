@@ -9,6 +9,7 @@ GDZero is a Multiplayer Platform Fighting game with a Medieval and Fantasy Theme
 
 ###### Gameplay
 The gameplay is composed by 2 parts:
+
 1. A brawl for an object:
   - This part is a one-hit deathmatch.
   - However, the main objective is to hold a given object (for example, a crown) as long as possible.
@@ -22,6 +23,11 @@ The gameplay is composed by 2 parts:
 - The one with more points in the end of the second part Wins.
 
 ## The Team
+###### Remake Team
+- Filipe Kunioshi
+  * Unity/C# Programmer
+  * Character Designer and Animator
+
 ###### Former Team
 - Arthur Henrique de Oliveira
   * Programmer
@@ -39,8 +45,3 @@ The gameplay is composed by 2 parts:
   * Lead Programmer
 - Thiago Stein
   * Programmer
-
-###### Remake Team
-- Filipe Kunioshi
-  * Unity/C# Programmer
-  * Character Designer and Animator
